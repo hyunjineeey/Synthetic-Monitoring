@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: goalie
+  resources:
+    add-mappings: false
+management:
+  endpoints:
+    web:
+      base-path: /
+      exposure:
+        include: "buildinfo, health, info"
+server:
+  port: 8080
+
+goalie:
+  baseUrl: "http://localhost:8080"
+  deviceId: 14e455a7-e75e-4040-9a16-9634d714c6df
+  locationId: 7b579c23-8639-46f0-a218-f5eb05a5477d
+

@@ -1,0 +1,26 @@
+# editorconfig.org
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+# YAML 2-space indentation
+[*.{yml,yaml}]
+indent_size = 2
+
+# Terraform 2-space indentation
+[*.tf]
+indent_size = 2
+
+# Scala 2-space indentation
+[*.scala]
+indent_size = 2

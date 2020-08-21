@@ -1,0 +1,17 @@
+syntax = "proto3";
+package jin.event;
+option java_package = "jin.event.proto";
+option java_outer_classname = "EventProtos";
+
+message Event {
+    string id = 1;
+    string location_id = 2;
+    int64 provider_time = 3;
+    oneof event_type {
+        DeviceEvent device_event = 100;
+    }
+}
+
+message DeviceEvent {
+    string device_id = 1;
+}
