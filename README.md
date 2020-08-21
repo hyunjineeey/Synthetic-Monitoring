@@ -45,9 +45,9 @@ It will also read events from `goalie`
 * Groovy
 
 ## Contributors
-<a href="https://github.com/hyunjineeey"><img src="https://avatars3.githubusercontent.com/u/46205089?s=400&u=3089ab4d55f576fd12690831e69246e8d4d812b1&v=4" title="Jin Jae" width="80" height="80"></a>
-<a href="https://github.com/johntosberg"><img src="https://avatars0.githubusercontent.com/u/19939485?s=400&u=c856a0e1d7cbfa86f2fb0a20c70d3a00135c7f1e&v=4" title="Jeff Blaisdell" width="80" height="80"></a>
-<a href="https://github.com/jeff-blaisdell"><img src="https://avatars0.githubusercontent.com/u/992868?s=400&v=4" title="Jin Jae" width="80" height="80"></a>
+<a href="https://github.com/hyunjineeey"><img src="https://avatars3.githubusercontent.com/u/46205089?s=400&u=3089ab4d55f576fd12690831e69246e8d4d812b1&v=4" title="Jin Jae" width="100" height="100"></a>
+<a href="https://github.com/johntosberg"><img src="https://avatars0.githubusercontent.com/u/19939485?s=400&u=c856a0e1d7cbfa86f2fb0a20c70d3a00135c7f1e&v=4" title="Jeff Blaisdell" width="100" height="100"></a>
+<a href="https://github.com/jeff-blaisdell"><img src="https://avatars0.githubusercontent.com/u/992868?s=400&v=4" title="Jin Jae" width="100" height="100"></a>
 
 ## Future Improvements
 * Report the time result to DataDog
