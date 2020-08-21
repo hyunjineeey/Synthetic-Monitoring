@@ -2,14 +2,13 @@
 A synthetic monitoring system. 
 
 ## Table of contents
-* [General Info](#General info)
+* [General Info](#General-Info)
 * [Prerequisites](#Prerequisites)
 * [Setup](#Setup)
-* [How to Run](#How to run)
+* [How to Run](#How-to-Run)
 * [Technologies](#Technologies)
 * [Contributors](#Contributors)
-* [Demo](#Demo)
-* [Future Improvements](#Future improvements)
+* [Future Improvements](#Future-Improvements)
 
 ## General Info
 The synthetic monitoring system measures the time of the process starting with an API call and ending with event delivery. It returns the total time is taken, minimum, maximum, and average time.
@@ -46,9 +45,9 @@ It will also read events from `goalie`
 * Groovy
 
 ## Contributors
-[//]: contributor-faces
 <a href="https://github.com/hyunjineeey"><img src="https://avatars3.githubusercontent.com/u/46205089?s=400&u=3089ab4d55f576fd12690831e69246e8d4d812b1&v=4" title="Jin Jae" width="80" height="80"></a>
-[//]: contributor-faces
+<a href="https://github.com/johntosberg"><img src="https://avatars0.githubusercontent.com/u/19939485?s=400&u=c856a0e1d7cbfa86f2fb0a20c70d3a00135c7f1e&v=4" title="Jeff Blaisdell" width="80" height="80"></a>
+<a href="https://github.com/jeff-blaisdell"><img src="https://avatars0.githubusercontent.com/u/992868?s=400&v=4" title="Jin Jae" width="80" height="80"></a>
 
 ## Future Improvements
 * Report the time result to DataDog
