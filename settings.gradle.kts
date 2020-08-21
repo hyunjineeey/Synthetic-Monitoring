@@ -1,4 +1,4 @@
-rootProject.name = "woof-root"
+rootProject.name = "Synthetic-monitoring"
 
 include("woof", "goalie", "goalie-api")
 
