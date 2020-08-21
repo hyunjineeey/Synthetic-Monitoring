@@ -1,0 +1,20 @@
+<ruleset name="Rules"
+		 xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
+
+	<description>PMD Rules</description>
+	<rule ref="category/java/bestpractices.xml">
+		<exclude name="AbstractClassWithoutAbstractMethod"/>
+	</rule>
+	<rule ref="category/java/security.xml"/>
+	<rule ref="category/java/multithreading.xml">
+		<exclude name="UseConcurrentHashMap"/>
+	</rule>
+	<rule ref="category/java/performance.xml"/>
+	<rule ref="category/java/errorprone.xml">
+		<exclude name="MissingSerialVersionUID"/>
+		<exclude name="BeanMembersShouldSerialize"/>
+		<exclude name="AvoidDuplicateLiterals"/>
+	</rule>
+</ruleset>
