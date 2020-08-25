@@ -25,7 +25,7 @@ To run this project, run docker locally:
 $ docker-compose up -d
 ```
 ## Protocol Buffers
-This project uses Google's protocol buffers for the event definition.
+This project uses Google's protocol buffers for the event definition.  
 To generate the protocol buffer Java classes run:
 ```
 $ ./gradlew goalie-api:build
