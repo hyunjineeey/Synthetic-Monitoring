@@ -13,7 +13,7 @@ A synthetic monitoring system.
 ## General Info
 The synthetic monitoring system measures the time of the process starting with an API call and ending with event delivery. It returns the total time is taken, minimum, maximum, and average time.
 * Team: IoT Execution team
-* Period: May 18, 2020 - Aug 21, 2020. 
+* Period: May 18, 2020 - Aug 21, 2020.  
 Undertook this project for the 2020 Summer SmartThings Internship program.
 
 ## Prerequisites
