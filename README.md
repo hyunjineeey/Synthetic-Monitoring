@@ -1,12 +1,4 @@
-# A synthetic monitoring system.
-
-## Table of contents
-
--   [General Info](#General-Info)
--   [Prerequisites](#Prerequisites)
--   [Setup](#Setup)
--   [How to Run](#How-to-Run)
--   [Technologies](#Technologies)
+# Synthetic Monitoring System
 
 ## General Info
 
@@ -56,3 +48,5 @@ It will send events to `goalie` in every 5 seconds and read the events.
 -   Gradle
 -   Spock
 -   Groovy
+
+### For more information, click [here.](https://hyunjinjae.com/blog/internship.html)
